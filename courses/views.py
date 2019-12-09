@@ -11,7 +11,7 @@ from django.apps import apps
 from braces.views import CsrfExemptMixin, JsonRequestResponseMixin
 from .models import Course
 from .models import Module, Content
-from .forms import ModuleFormSet
+# from .forms import ModuleFormSet
 
 
 
